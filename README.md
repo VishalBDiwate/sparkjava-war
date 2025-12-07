@@ -10,5 +10,6 @@ Steps:--
 5. Start Tomcat by running `bin\startup.bat` (or `bin\startaup.sh` for Linux)
 5. Tomcat will automatically deploy the war
 6. Open [http://localhost:8080/sparkjava-hello-world-1.0/hello](http://localhost:8080/sparkjava-hello-world-1.0/hello) in your browser
-#   J a v a   R e p o s i t o r y  
+#   J a v a   R e p o s i t o r y. 
+ 
  
